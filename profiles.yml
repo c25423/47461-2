@@ -1,0 +1,16 @@
+config:
+  partial_parse: true
+  printer_width: 120
+  send_anonymous_usage_stats: false
+  use_colors: true
+normalize:
+  outputs:
+    prod:
+      database: halo
+      password: syj<i+T>7g.Pkrvh
+      port: 3306
+      schema: halo
+      server: 34.123.51.53
+      type: mysql
+      username: patrick
+  target: prod

@@ -1,0 +1,9 @@
+version: 2
+sources:
+- name: halo
+  quoting:
+    database: true
+    schema: false
+    identifier: false
+  tables:
+  - name: _airbyte_raw_local_1024
