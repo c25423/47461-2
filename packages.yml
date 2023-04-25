@@ -3,3 +3,6 @@
 packages:
   - git: "https://github.com/fishtown-analytics/dbt-utils.git"
     revision: 0.8.2
+
+  - git: "https://github.com/dbeatty10/dbt-mysql.git"
+    revision: 1.1.0
